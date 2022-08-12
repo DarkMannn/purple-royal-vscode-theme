@@ -1,5 +1,5 @@
 {
-  "name": "Dark Purple Royal",
+  "name": "Purple Royal",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -1845,7 +1845,7 @@
     }
   ],
   "colors": {
-    "foreground": "#7851a9",
+    "foreground": "#cccccc",
     "focusBorder": "#7851a9",
     "selection.background": "#a77edb81",
     "scrollbar.shadow": "#a77edb81",
@@ -2073,7 +2073,7 @@
     "peekViewTitle.background": "#1e1e1e",
     "peekViewTitleDescription.foreground": "#ccccccb3",
     "peekViewTitleLabel.foreground": "#ffffff",
-    "icon.foreground": "#7851a9",
+    "icon.foreground": "#cccccc",
     "checkbox.background": "#3c3c3c",
     "checkbox.foreground": "#cccccc",
     "checkbox.border": "#00000000",
@@ -2092,7 +2092,7 @@
     "editorGroup.emptyBackground": "#191919",
     "panelSection.border": "#80808059",
     "statusBarItem.activeBackground": "#FFFFFF25",
-    "settings.headerForeground": "#7851a9",
+    "settings.headerForeground": "#cccccc",
     "settings.focusedRowBackground": "#ffffff07",
     "walkThrough.embeddedEditorBackground": "#00000050",
     "breadcrumb.activeSelectionForeground": "#e0e0e0",
