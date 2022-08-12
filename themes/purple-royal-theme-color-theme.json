@@ -1945,7 +1945,7 @@
     "editorRuler.foreground": "#5a5a5a",
     "editorBracketMatch.background": "#9f9f9f62",
     "editorBracketMatch.border": "#9f9f9f62",
-    "editor.foldBackground": "#665a4681",
+    "editor.foldBackground": "#665a4649",
     "editorOverviewRuler.background": "#25252500",
     "editorOverviewRuler.border": "#7f7f7f4d",
     "editorError.foreground": "#ec806b",
