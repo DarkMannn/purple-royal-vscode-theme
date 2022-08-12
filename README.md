@@ -1,13 +1,29 @@
-# README
-## This is the README for your extension "purple-royal-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<div align="center">
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
+# Purple Royal Theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+A calming dark theme with some royal purple accents.
 
-**Enjoy!**
+![purple-royal](https://drive.google.com/uc?export=view&id=1fiPb7LInvs-s6F3B9KK3MUIQMa8gBIHv)
+
+![theme preview](https://drive.google.com/uc?export=view&id=1p6d5po6tOg6FaVyTEukPQ9eby5kVhbxP)
+
+</div>
+
+## Installation
+
+1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
+1. Search for `Purple Theme`, choose "Purple Royal Theme" by **DarkMannn**
+1. Click **Install** to install it
+2. Navigate to File > Preferences > Color Theme > **Purple Royal Theme**
+
+## Contributing
+
+Please report any issues [here](https://github.com/DarkMannn/purple-royal-vscode-theme/issues).
+
+## License
+
+This theme is released under the [MIT License](https://github.com/DarkMannn/purple-royal-vscode-theme/blob/main/LICENSE.md).
+
+## Author
+✨ Designed by **[DarkMannn](https://darkmannn.dev)**
