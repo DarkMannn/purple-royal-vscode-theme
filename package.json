@@ -1,44 +1,44 @@
 {
-    "name": "purple-royal-theme",
-    "displayName": "Purple Royal Theme",
-    "description": "A calming dark theme with some royal purple accents.",
-    "version": "0.0.3",
-    "publisher": "DarkMannn",
-    "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
-    "engines": {
-        "vscode": "^1.70.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "keywords" : [
-        "theme",
-        "purple",
-        "royal",
-        "grey",
-        "gray",
-        "calming",
-        "calm",
-        "relaxing",
-        "relax",
-        "dark"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Purple Royal Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/purple-royal-theme-color-theme.json"
-            }
-        ]
-    },
-    "icon": "icon.png",
-    "repository": {
-        "url": "https://github.com/DarkMannn/purple-royal-vscode-theme",
-        "type": "git"
-    },
-    "bugs": {
-        "url": "https://github.com/DarkMannn/purple-royal-vscode-theme/issues"
-    },
-    "license": "MIT"
+  "name": "purple-royal-theme",
+  "displayName": "Purple Royal Theme",
+  "description": "A calming dark theme with some royal purple accents.",
+  "version": "0.0.4",
+  "publisher": "DarkMannn",
+  "author": "DarkMannn <darko.milosevic@darkmannn.dev>",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "purple",
+    "royal",
+    "grey",
+    "gray",
+    "calming",
+    "calm",
+    "relaxing",
+    "relax",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Purple Royal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/purple-royal-theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "url": "https://github.com/DarkMannn/purple-royal-vscode-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkMannn/purple-royal-vscode-theme/issues"
+  },
+  "license": "MIT"
 }
